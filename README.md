@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satish
 - 👀 I’m interested in Web Development, Python
-- 🌱 I’m currently learning JavScript, React, MySQL, Python
-- 💞️ I’m looking to collaborate on cool and simple Web Development projects
+- 🌱 I’m currently learning Flutter and trying to become a Fullstack developer
+- 💞️ I’m looking to collaborate on cool Web Development projects
 - 📫 You can reach me @gmail: satishpokala124@gmail.com
 
 <!---
