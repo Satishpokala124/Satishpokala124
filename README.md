@@ -31,6 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Satishpokala124/Satishpokala124/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Satishpokala124/Satishpokala124/assets/snake.svg" alt="Snake animation" />
 
 ###
