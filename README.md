@@ -1,13 +1,6 @@
-<style>
-  @font-face {
-    font-family: "Operator Mono";
-    src: url(https://github.com/keyding/Operator-Mono/raw/master/Fonts/OperatorMono-Book.otf) format(truetype);
-  }
-</style>
-
 <div align="center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=22&duration=4000&pause=4000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there!!+This+is+Satish%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&duration=4000&pause=4000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there!!+This+is+Satish%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
 
