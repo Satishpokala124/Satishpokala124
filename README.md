@@ -1,10 +1,8 @@
 <style>
-
   @font-face {
     font-family: "Operator Mono";
     src: url(https://github.com/keyding/Operator-Mono/raw/master/Fonts/OperatorMono-Book.otf) format(truetype);
   }
-
 </style>
 
 <div align="center>
